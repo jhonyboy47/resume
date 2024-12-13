@@ -4,7 +4,7 @@
 ### 📍 Contact Information
 **Location:** Denver, CO
 
-**Email:** [jhonathanmalagon@gmail.com](mailto:jhonathanmalagontx@gmail.com)
+**Email:** [jhonathanmalagontx@gmail.com](mailto:jhonathanmalagontx@gmail.com)
 
 **GitHub:** [/jhonyboy47](https://github.com/jhonyboy47)
 
