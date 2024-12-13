@@ -38,7 +38,7 @@ Innovative **Fullstack Software Engineer** with *2+ years of experience* special
 
 Key Achievements:
 - 🏆 Developed first Helicopter Tracking Solution | SkyRouter
-- 🛜 Created firstdirect data transmission API | United Airlines
+- 🛜 Created first direct data transmission API | United Airlines
 - 🛫 Transitioned FAA’s TFMData’s R13 to R14 receiver
 - 📦 Moved various API's to Docker with Nix to manage dev development & dependencies
 - 🪲 Addressed various bugs within legacy code | TCL
@@ -70,7 +70,7 @@ Highlights:
   - Information Security, Sensor Systems,Robot Ethics, Machine Learning
 
 ### 🏆 "Fun" Projects
-1. **[Civitas Dei](https://github.com/jhonyboy47/Civitas-Dei)**  (Church Social Media App, Team Collaboration, Anroid, Kotlin)
+1. **[Civitas Dei](https://github.com/jhonyboy47/Civitas-Dei)**  (Church Social Media App, Team Collaboration, Android, Kotlin)
 2. **[Todo List App](https://github.com/InjoyPics/flutter-projects/tree/master/first_app_v2)** (iOS, Android, Flutter, Dart, Firebase)
 3. **[WhatsApp Message Automation](https://github.com/jhonyboy47/WhatsApp-Automation)** (Python, WhatsApp API)
 4. **[Pro Nails Website](https://pronails-greenwood-village.com/)** (AI Generated Website for a local business)
