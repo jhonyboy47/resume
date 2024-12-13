@@ -23,6 +23,7 @@
 
 ## Website Integration
 - [ ] Set up CI/CD for automatic deployment
+- [ ] Take a gandder at https://www.youtube.com/watch?v=D9CLhQdLp8w and similar vids
 - [ ] Add analytics to track resume views
 - [ ] Create print-friendly stylesheet
 - [ ] Implement contact form
