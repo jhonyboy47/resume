@@ -1,10 +1,13 @@
-# 👨‍💻 Jhonathan Daniel de Jesús Malagón
+# 👨🏻‍💻 Jhonathan Daniel de Jesús Malagón
 ## 🚀 Fullstack Software Engineer
 
 ### 📍 Contact Information
 **Location:** Denver, CO
-**Email:** [jhonathanmalagon@gmail.com](mailto:jhonathanmalagon@gmail.com)
+
+**Email:** [jhonathanmalagon@gmail.com](mailto:jhonathanmalagontx@gmail.com)
+
 **GitHub:** [/jhonyboy47](https://github.com/jhonyboy47)
+
 **LinkedIn:** [/in/jhonathan-malagon](https://www.linkedin.com/in/jhonathan-malagon)
 
 ### 💡 Professional Summary
@@ -51,23 +54,20 @@ Highlights:
 ### 🎓 Education
 **Bachelor of Science in Computer Science**
 *Colorado School of Mines* | *May 2022*
-- **GPA:** 3.47
-- **Relevant Coursework:** 
-  - Data Structures
-  - Algorithms
-  - Software Engineering
-  - Database Management
-  - Web Programming (RESTful APIs)
-  - Web Applications
-  - Information Security
-  - Sensor Systems
-  - Programming Languages
-  - Computer Networks
-  - Game Theory & Networks
-  - Computer Organization
-  - Mobile Application Development
-  - Robot Ethics
-  - Machine Learning
+ 
+  **GPA:** 3.47
+
+  **Software Development:** 
+  - Data Structures, Algorithms, Software Engineering, Database Management, Programming Languages, Computer Organization
+
+  **Web & App Development:**
+  
+  - Web Programming (RESTful APIs), Web Applications (Single Page Applications), Mobile Application Development
+
+  **Networking & Auxiliary:**
+
+  - Computer Networks, Game Theory & Networks,
+  - Information Security, Sensor Systems,Robot Ethics, Machine Learning
 
 ### 🏆 "Fun" Projects
 1. **[Pro Nails Website](https://pronails-greenwood-village.com/)** (AI)
