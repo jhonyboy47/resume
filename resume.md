@@ -29,7 +29,7 @@ Innovative **Fullstack Software Engineer** with *2+ years of experience* special
 | DevOps | Docker, Nix, Jenkins, GitHub Actions, Kubernetes |
 | Database | PostgreSQL, MySQL, MongoDB |
 | Version Control | Git, GitHub |
-| Testing | PyTest, JUnit |
+| Testing | PyTest, JUnit, CTest |
 
 ### 💼 Professional Experience
 
@@ -70,10 +70,13 @@ Highlights:
   - Information Security, Sensor Systems,Robot Ethics, Machine Learning
 
 ### 🏆 "Fun" Projects
-1. **[Pro Nails Website](https://pronails-greenwood-village.com/)** (AI)
-2. **[Maintained Church Conference Website](https://intimidadcondios.tv/rmntconf/)** (WordPress)
-3. **[Personal Silly Website](https://jhonyboy47.github.io/index.html)** (HTML, CSS, JavaScript, PHP)
-4. **Colorado School of Mines Crowdsourcing System**
+1. **[Civitas Dei](https://github.com/jhonyboy47/Civitas-Dei)**  (Church Social Media App, Team Collaboration, Anroid, Kotlin)
+2. **[Todo List App](https://github.com/InjoyPics/flutter-projects/tree/master/first_app_v2)** (iOS, Android, Flutter, Dart, Firebase)
+3. **[WhatsApp Message Automation](https://github.com/jhonyboy47/WhatsApp-Automation)** (Python, WhatsApp API)
+4. **[Pro Nails Website](https://pronails-greenwood-village.com/)** (AI Generated Website for a local business)
+5. **[Maintained Church Conference Website](https://intimidadcondios.tv/rmntconf/)** (WordPress)
+6. **[Personal Silly Website](https://jhonyboy47.github.io/index.html)** (HTML, CSS, JavaScript, PHP)
+7. **[STOP Game](https://jhonyboy47.github.io/STOP-Game/)** (Interactive Game, Team Collaboration, HTML, CSS, JavaScript, jQuery)
 
 ### 👨🏻‍💻 Hackathons
 1. **Annual FlightAware Hackathon | MusicBird 2022 - Won 1st Place | 2023 - Won Fan Favorite | Inflight Landmark Locator 2024 - Won Fan Favorite**
