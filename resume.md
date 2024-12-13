@@ -26,11 +26,11 @@ Innovative **Fullstack Software Engineer** with *2+ years of experience* special
 | DevOps | Docker, Nix, Jenkins, GitHub Actions, Kubernetes |
 | Database | PostgreSQL, MySQL, MongoDB |
 | Version Control | Git, GitHub |
-| Testing | PyTest |
+| Testing | PyTest, JUnit |
 
 ### 💼 Professional Experience
 
-#### 🚁 Backend Software Engineer | FlightAware
+#### 🛩️ Backend Software Engineer | FlightAware
 **June 2022 – Present | Remote**
 
 Key Achievements:
