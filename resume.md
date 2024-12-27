@@ -88,7 +88,7 @@ Highlights:
 ### 🌟 Additional Skills
 - ✅ Agile Methodologies
 - 🤝 Cross-functional Collaboration
-- 🗣 Bilingual (English, Spanish)
+- 🗣 Bilingual (English, Spanish, Learning Portuguese)
 - 📊 Technical Documentation
 - 🎯 Problem-Solving
 
