@@ -80,7 +80,7 @@ Highlights:
 7. **[STOP Game](https://jhonyboy47.github.io/STOP-Game/)** (Interactive Game, Team Collaboration, HTML, CSS, JavaScript, jQuery)
 
 ### 👨🏻‍💻 Hackathons
-1. **Annual FlightAware Hackathon | MusicBird 2022 - Won 1st Place | 2023 - Won Fan Favorite | Inflight Landmark Locator 2024 - Won Fan Favorite**
+1. **Annual FlightAware Hackathon ~ MusicBird 2022 - Won 1st Place ~ 2023 - Won Fan Favorite ~ Inflight Landmark Locator 2024 - Won Fan Favorite**
 2. **Collins Aerospace Hackathon 2024**
 3. **[ICPC Rocky Mountain Regional Contest](https://rocky.icpc.io/) 2019 & 2020**
 4. **[UTD Hackathon](https://devpost.com/software/csm-hackathon-2024) 2019 - Created free iClicker solution to minimize expenses for college students** 
