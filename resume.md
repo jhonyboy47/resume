@@ -22,6 +22,7 @@ Innovative **Fullstack Software Engineer** with *2+ years of experience* special
 - **Scripting:** Bash
 
 #### 🔧 Frameworks & Tools
+
 | Category        | Technologies                                     |
 |:----------------|:-------------------------------------------------|
 | Backend         | Django, Node.js                                  |
