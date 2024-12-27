@@ -49,8 +49,8 @@ Key Achievements:
 **Summer 2021 | The Woodlands, TX**
 
 Highlights:
-- 📊 Developed manufacturing process software solutions
-- 🗃 Managed sensitive SQL database systems
+- 📊 Developed manufacturing process software solutions | Software Development
+- 🗃 Managed sensitive SQL database systems             | SQL
 
 ### 🎓 Education
 **Bachelor of Science in Computer Science**
