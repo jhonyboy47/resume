@@ -38,12 +38,12 @@ Innovative **Fullstack Software Engineer** with *2+ years of experience* special
 **June 2022 – Present | Remote**
 
 Key Achievements:
-- 🏆 Developed first Helicopter Tracking Solution | SkyRouter
-- 🛜 Created first direct data transmission API | United Airlines
-- 🛫 Transitioned FAA’s TFMData’s R13 to R14 receiver | FAA
+- 🏆 Developed first Helicopter Tracking Solution                                    | SkyRouter
+- 🛜 Created first direct data transmission API                                      | United Airlines
+- 🛫 Transitioned FAA’s TFMData’s R13 to R14 receiver                                | FAA
 - 📦 Moved various API's to Docker with Nix to manage dev development & dependencies | API Work
-- 🪲 Addressed various bugs within legacy code | TCL
-- 💾 Implemented critical database archiving scripts | SQL Archive
+- 🪲 Addressed various bugs within legacy code                                       | TCL
+- 💾 Implemented critical database archiving scripts                                 | SQL Archive
 
 #### 🏭 Software Improvement Intern | Global Shop Solutions
 **Summer 2021 | The Woodlands, TX**
