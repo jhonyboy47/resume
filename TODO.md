@@ -1,32 +1,11 @@
 # Resume Project TODOs
 
-## High Priority
-- [ ] Verify all links are working and up-to-date
-- [ ] Add specific metrics/numbers to achievements where possible
 - [ ] Update my personal website to be more professional and include my resume
-- [ ] Add a "Projects" section to my personal website
-- [ ] Figure out how to get the correct formating for resume webpage so that css is applied correctly
-
-## Content Improvements
-- [ ] Add more specific technical details to project descriptions
-- [ ] Update skills section with any new technologies learned
-
-## Formatting
-- [ ] Ensure consistent spacing throughout document
-- [ ] Check mobile responsiveness if using as web resume
+- [ ] Figure out how to get the correct formatting for resume webpage so that css is applied correctly
 - [ ] Optimize layout for ATS (Applicant Tracking Systems)
-
-## Future Enhancements
-- [ ] Create Nice PDF version
-- [ ] Add interactive portfolio elements
-- [ ] Add downloadable version link
-
-## Website Integration
-- [ ] Set up CI/CD for automatic deployment
-- [ ] Take a gandder at https://www.youtube.com/watch?v=D9CLhQdLp8w and similar vids
+- [ ] Take a gander at https://www.youtube.com/watch?v=D9CLhQdLp8w and similar vids
 - [ ] Add analytics to track resume views
-- [ ] Create print-friendly stylesheet
 - [ ] Implement contact form
 
 ---
-Last Updated: 12/13/2024 
+Last Updated: 12/26/2024 
