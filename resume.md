@@ -22,14 +22,14 @@ Innovative **Fullstack Software Engineer** with *2+ years of experience* special
 - **Scripting:** Bash
 
 #### 🔧 Frameworks & Tools
-| Category | Technologies |
-|----------|--------------|
-| Backend | Django, Node.js |
-| Frontend | React, jQuery |
-| DevOps | Docker, Nix, Jenkins, GitHub Actions, Kubernetes |
-| Database | PostgreSQL, MySQL, MongoDB |
-| Version Control | Git, GitHub |
-| Testing | PyTest, JUnit, CTest |
+| Category        | Technologies                                     |
+|:----------------|:-------------------------------------------------|
+| Backend         | Django, Node.js                                  |
+| Frontend        | React, jQuery                                    |
+| DevOps          | Docker, Nix, Jenkins, GitHub Actions, Kubernetes |
+| Database        | PostgreSQL, MySQL, MongoDB                       |
+| Version Control | Git, GitHub                                      |
+| Testing         | PyTest, JUnit, CTest                             |
 
 ### 💼 Professional Experience
 
@@ -39,10 +39,10 @@ Innovative **Fullstack Software Engineer** with *2+ years of experience* special
 Key Achievements:
 - 🏆 Developed first Helicopter Tracking Solution | SkyRouter
 - 🛜 Created first direct data transmission API | United Airlines
-- 🛫 Transitioned FAA’s TFMData’s R13 to R14 receiver
-- 📦 Moved various API's to Docker with Nix to manage dev development & dependencies
+- 🛫 Transitioned FAA’s TFMData’s R13 to R14 receiver | FAA
+- 📦 Moved various API's to Docker with Nix to manage dev development & dependencies | API Work
 - 🪲 Addressed various bugs within legacy code | TCL
-- 💾 Implemented critical database archiving scripts
+- 💾 Implemented critical database archiving scripts | SQL Archive
 
 #### 🏭 Software Improvement Intern | Global Shop Solutions
 **Summer 2021 | The Woodlands, TX**
