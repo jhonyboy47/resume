@@ -44,6 +44,7 @@ Key Achievements:
 - 📦 Moved various API's to Docker with Nix to manage dev development & dependencies | API Work
 - 🪲 Addressed various bugs within legacy code                                       | TCL
 - 💾 Implemented critical database archiving scripts                                 | SQL Archive
+- 🧾 Dealt with various billing tasks as backend was fused with that department      | Billing
 
 #### 🏭 Software Improvement Intern | Global Shop Solutions
 **Summer 2021 | The Woodlands, TX**
@@ -88,6 +89,7 @@ Highlights:
 ### 🌟 Additional Skills
 - ✅ Agile Methodologies
 - 🤝 Cross-functional Collaboration
+- 🧾 Experience with billing
 - 🗣 Bilingual (English, Spanish, Learning Portuguese)
 - 📊 Technical Documentation
 - 🎯 Problem-Solving
