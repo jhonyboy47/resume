@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Jhonathan Daniel de Jesús Malagón
+# 👨🏻‍💻 Jhonathan Malagon
 ## 🚀 Fullstack Software Engineer
 
 ### 📍 Contact Information
